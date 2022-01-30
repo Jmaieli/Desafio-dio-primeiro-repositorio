@@ -1,4 +1,4 @@
-# Dsafio-dio-primeiro-repositorio
+# Desafio-dio-primeiro-repositorio
 Desafio de projeto sobre Git/GitHub
 
 # Criando meu primeiro repositório no Git/GitHub
